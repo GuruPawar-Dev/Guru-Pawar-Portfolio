@@ -14,7 +14,7 @@ const Footer = () => {
         <h1 className="text-3xl md:text-5xl font-bold mb-6 md:mb-0">Contact</h1>
         <div className="flex gap-6 text-3xl">
           <a
-            href="mailto:gurupawr.dev@gmail.com"
+            href="mailto:gurupawar.dev@gmail.com"
             // target="_blank"
             // rel="noopener noreferrer"
             className="hover:text-[#ffb84c]"
